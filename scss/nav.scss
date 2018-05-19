@@ -1,0 +1,22 @@
+.nav-items {
+
+	display: flex;
+	flex-direction: row; 
+	justify-content: space-between;
+}
+
+.header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 10px 0px 10px 10px;
+
+	h1 {
+		padding-left: 20px
+	}
+}
+
+.icon {
+	border: 2px black solid;
+	border-radius: 150px;
+}
